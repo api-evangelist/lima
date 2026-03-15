@@ -1,0 +1,13 @@
+name: Lima
+description: Linux virtual machines on macOS with automatic file sharing, port forwarding,
+  and containerd integration for running containers
+url: https://lima-vm.io/
+tags:
+- Virtualization
+- Containers
+- macOS
+- Linux
+created: '2025'
+modified: '2025'
+apis: []
+common: []
